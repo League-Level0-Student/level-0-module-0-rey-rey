@@ -44,7 +44,7 @@ public class RobotGraffiti {
 	  public static void main(String[] args) throws Exception {
 		  
 		RobotGraffiti rg = new RobotGraffiti();
-		//rg.WriteR();
+		rg.WriteR();
 		
 	  }
 
